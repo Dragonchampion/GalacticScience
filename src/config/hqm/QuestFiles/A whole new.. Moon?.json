@@ -4,7 +4,7 @@
   "quests": [
     {
       "name": "Welcome Home!",
-      "description": "Welcome to the Moon. Which will now be known as your home for the rest of your life. It was probably a bad idea to destroy the earth.",
+      "description": "With the destruction of the earth, the Moon will probably be your home for quite some time. The destruction on the surface of the planet is visible, even from here... But now, you need to step foot in your new home.",
       "x": 16,
       "y": 9,
       "bigicon": true,
@@ -49,7 +49,7 @@
     },
     {
       "name": "The Surface",
-      "description": "Well, By the looks of it. Its not cheese. But there could be some use for this in the future maybe? I should grab some just in case.",
+      "description": "The moon's surface is made of incredibly fine sand, pulverized into a powder so fine, it could end up clogging your air pipes, if you let it. Still, you might be able to do something with this. It'd be best to grab a bit of it.",
       "x": 40,
       "y": 64,
       "icon": {
@@ -86,7 +86,7 @@
     },
     {
       "name": "Power up!",
-      "description": "When you were a child, your dad used to tell you about how he and his dad built a station on the moon. Something he used to mention was that he used stars to power the base?",
+      "description": "When you were a young child, your father used to tell you wonderful stories about his castle on the moon. In these stories, he told you of how he harnessed stars as energy. Well, you're here in your father's castle... perhaps the star part is true as well?",
       "x": 61,
       "y": 41,
       "icon": {
@@ -98,7 +98,7 @@
       "tasks": [
         {
           "type": "DETECT",
-          "longDescription": "For this task you are required to get the Star Container. For this you need to find your star harvester. Then Shift right click with a Empty hand. To insert it back after right click while holding the container. Then the same with the star after.",
+          "longDescription": "For this task you are required to get the Star Container. For this you need to find your star harvester, then Shift right click with ane mpty hand. To insert it back afterwards, right click while holding the container. Finally, to inser the star, just right click the placed container with it.",
           "items": [
             {
               "item": {
@@ -178,8 +178,8 @@
       ]
     },
     {
-      "name": "Im yelling timber!",
-      "description": "Two trees. Thats all he left you. One tree for Oxygen, Another for a farm. Better hope you get saplings. As fast as the tree has one leave block left, you can simply harvest the lowest block and treecapicitor will harvest the whole tree!",
+      "name": "I\u0027m yelling TIMBER!",
+      "description": "Two trees. Thats all he left you. One tree for Oxygen, and another for a farm. Better hope you get saplings! As long as the tree has one leaf block left, you can simply harvest the lowest block and treecapicitor will harvest the whole tree!",
       "x": 91,
       "y": 62,
       "icon": {
@@ -191,7 +191,7 @@
       "tasks": [
         {
           "type": "DETECT",
-          "longDescription": "Trees can be cut down together! Chop the bottom block and the whole tree will fall! But the magic only works if at least 1 leaf is attached to the tree!",
+          "longDescription": "Trees can be cut down all at once if at least 1 leaf is attached to the tree. Simply cut the lowest block to cut the entire tree at once.",
           "items": [
             {
               "item": {
